@@ -40,7 +40,7 @@
    
 
     <section class="container mx-auto px-4 py-16 text-center md:py-24">
-        <center><img src="[logo file- png.png](https://github.com/karthikprabu721/Enscape-class-for-designers/blob/ea4584db19189dcbc9f414cf3716e3a5fa0a74ec/logo%20file-%20png.png)" alt="Real-time rendering" width="150" height="100"></center>
+        <center><img src="C:/Users/mreha/OneDrive/Documents/logo file- png.png" alt="Real-time rendering" width="150" height="100"></center>
  <span class="inline-block px-4 py-2 mb-6 text-sm font-medium text-peach border border-peach rounded-full">
             ENSCAPE COURSE
         </span>
