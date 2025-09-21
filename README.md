@@ -40,7 +40,7 @@
    
 
     <section class="container mx-auto px-4 py-16 text-center md:py-24">
-        <center><img src="https://github.com/karthikprabu721/Enscape-class-for-designers/blob/f6beb0a10fa685d4f2f43d9eac3ab313b6269c4b/logo%20file-%20png.png" width="150" height="100"></center>
+        <center><img src=("https://github.com/karthikprabu721/Enscape-class-for-designers/blob/f6beb0a10fa685d4f2f43d9eac3ab313b6269c4b/logo%20file-%20png.png") width="150" height="100"></center>
  <span class="inline-block px-4 py-2 mb-6 text-sm font-medium text-peach border border-peach rounded-full">
             ENSCAPE COURSE
         </span>
