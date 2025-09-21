@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -40,7 +40,7 @@
    
 
     <section class="container mx-auto px-4 py-16 text-center md:py-24">
-        <center><img src="C:\Users\mreha\Downloads\logo file- png.png" alt="Real-time rendering" width="150" height="100"></center>
+        <center><img src="C:\Users\mreha\OneDrive\Documents\logo file- png.png" alt="Real-time rendering" width="150" height="100"></center>
  <span class="inline-block px-4 py-2 mb-6 text-sm font-medium text-peach border border-peach rounded-full">
             ENSCAPE COURSE
         </span>
@@ -66,7 +66,7 @@
         <div class="container mx-auto px-4 mt-16 md:mt-24">
             <div class="flex flex-col md:flex-row items-center gap-12 lg:gap-24">
                 <div class="w-full md:w-1/2 rounded-3xl overflow-hidden shadow-xl">
-                    <img src="C:\Users\mreha\OneDrive\Documents\WhatsApp Image 2025-09-21 at 1.56.06 PM.jpeg" alt="Interior render example" class="w-full h-auto object-cover">
+                    <img src="C:\Users\mreha\OneDrive\Documents\1.jpeg" alt="Interior render example" class="w-full h-auto object-cover">
                 </div>
                 <div class="w-full md:w-1/2">
                     <h3 class="text-2xl md:text-3xl font-bold mb-4">Why my course works</h3>
@@ -114,7 +114,7 @@
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <!-- Card 1 -->
                 <div class="bg-white p-6 rounded-3xl shadow-lg">
-                    <img src="C:\Users\mreha\OneDrive\Documents\WhatsApp Image 2025-09-21 at 1.56.07 PM (2).jpeg" alt="Real-time rendering" class="w-full h-auto rounded-xl mb-6">
+                    <img src="C:\Users\mreha\OneDrive\Documents\2.jpeg" alt="Real-time rendering" class="w-full h-auto rounded-xl mb-6">
                     <h3 class="text-xl md:text-2xl font-bold mb-2">REAL-TIME RENDERING</h3>
                     <h4 class="text-lg font-semibold text-gray-700 mb-4">See your 3D renders come to life instantly</h4>
                     <p class="text-gray-600 text-sm">
@@ -123,7 +123,7 @@
                 </div>
                 <!-- Card 2 -->
                 <div class="bg-white p-6 rounded-3xl shadow-lg">
-                    <img src="C:\Users\mreha\OneDrive\Documents\WhatsApp Image 2025-09-21 at 1.56.07 PM.jpeg" alt="Fast performance" class="w-full h-auto rounded-xl mb-6">
+                    <img src="C:\Users\mreha\OneDrive\Documents\3.jpeg" alt="Fast performance" class="w-full h-auto rounded-xl mb-6">
                     <h3 class="text-xl md:text-2xl font-bold mb-2">FAST PERFORMANCE</h3>
                     <h4 class="text-lg font-semibold text-gray-700 mb-4">Render high-quality visuals in seconds, not hours</h4>
                     <p class="text-gray-600 text-sm">
@@ -132,7 +132,7 @@
                 </div>
                 <!-- Card 3 -->
                 <div class="bg-white p-6 rounded-3xl shadow-lg">
-                    <img src="C:\Users\mreha\OneDrive\Documents\WhatsApp Image 2025-09-21 at 1.56.06 PM (2).jpeg" alt="Easy to use" class="w-full h-auto rounded-xl mb-6">
+                    <img src="C:\Users\mreha\OneDrive\Documents\4.jpeg" alt="Easy to use" class="w-full h-auto rounded-xl mb-6">
                     <h3 class="text-xl md:text-2xl font-bold mb-2">EASY TO USE</h3>
                     <h4 class="text-lg font-semibold text-gray-700 mb-4">Designed for designers, not tech experts</h4>
                     <p class="text-gray-600 text-sm">
@@ -320,7 +320,7 @@
     </section>
 
 <center>
-<img src = "C:\Users\mreha\Downloads\WhatsApp Image 2025-09-21 at 2.24.09 PM.jpeg"> 
+<img src ="C:\Users\mreha\OneDrive\Documents\5.jpeg"> 
 
 <br>
 <P><font-family: 'Inter', sans-serif>
