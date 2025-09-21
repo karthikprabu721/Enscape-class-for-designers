@@ -323,7 +323,7 @@
 <img src = "C:\Users\mreha\Downloads\WhatsApp Image 2025-09-21 at 2.24.09 PM.jpeg"> 
 
 <br>
-<P><font-family: 'Inter', sans-serif>
+<P>
 <b> You can get connected to us on - </b> 
 <br><br> 
 E-mail : ogeevision@gmail.com <br>
