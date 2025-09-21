@@ -323,13 +323,13 @@
 <img src ="./5.jpeg"> 
 
 <br>
-<P><font-family: 'Inter', sans-serif>
+<P>
 <b> You can get connected to us on - </b> 
 <br><br> 
 E-mail : ogeevision@gmail.com <br>
 Instagram id : ogee_vision <br>
 Phone : +91 9360215507
-</font>
+
 </P>
 </center>
 
