@@ -1,4 +1,4 @@
-
+<html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -66,7 +66,7 @@
         <div class="container mx-auto px-4 mt-16 md:mt-24">
             <div class="flex flex-col md:flex-row items-center gap-12 lg:gap-24">
                 <div class="w-full md:w-1/2 rounded-3xl overflow-hidden shadow-xl">
-                    <img src="[C:\Users\mreha\OneDrive\Documents\1.jpeg](https://github.com/karthikprabu721/Enscape-class-for-designers/blob/1b66d14d72108688ff740634ce2da2c839493d05/1.jpeg)" alt="Interior render example" class="w-full h-auto object-cover">
+                    <img src="C:\Users\mreha\OneDrive\Documents\1.jpeg" alt="Interior render example" class="w-full h-auto object-cover">
                 </div>
                 <div class="w-full md:w-1/2">
                     <h3 class="text-2xl md:text-3xl font-bold mb-4">Why my course works</h3>
