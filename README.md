@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -40,7 +40,7 @@
    
 
     <section class="container mx-auto px-4 py-16 text-center md:py-24">
-        <center><img src="C:\Users\mreha\Downloads\logo file- png.png" alt="Real-time rendering" width="150" height="100"></center>
+        <center><img src="logo file- png.png" width="150" height="100"></center>
  <span class="inline-block px-4 py-2 mb-6 text-sm font-medium text-peach border border-peach rounded-full">
             ENSCAPE COURSE
         </span>
