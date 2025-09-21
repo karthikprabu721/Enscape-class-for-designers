@@ -40,7 +40,7 @@
    
 
     <section class="container mx-auto px-4 py-16 text-center md:py-24">
-        <center><img src=("https://github.com/karthikprabu721/Enscape-class-for-designers/blob/f6beb0a10fa685d4f2f43d9eac3ab313b6269c4b/logo%20file-%20png.png") width="150" height="100"></center>
+        <center><img src="C:\Users\mreha\Downloads\logo file- png.png" alt="Real-time rendering" width="150" height="100"></center>
  <span class="inline-block px-4 py-2 mb-6 text-sm font-medium text-peach border border-peach rounded-full">
             ENSCAPE COURSE
         </span>
@@ -66,7 +66,7 @@
         <div class="container mx-auto px-4 mt-16 md:mt-24">
             <div class="flex flex-col md:flex-row items-center gap-12 lg:gap-24">
                 <div class="w-full md:w-1/2 rounded-3xl overflow-hidden shadow-xl">
-                    <img src="https://github.com/karthikprabu721/Enscape-class-for-designers/blob/51811cffd5331c3f4cc0489a10713f57cbb03bb2/WhatsApp%20Image%202025-09-21%20at%201.56.06%20PM.jpeg" alt="Interior render example" class="w-full h-auto object-cover">
+                    <img src="C:\Users\mreha\OneDrive\Documents\WhatsApp Image 2025-09-21 at 1.56.06 PM.jpeg" alt="Interior render example" class="w-full h-auto object-cover">
                 </div>
                 <div class="w-full md:w-1/2">
                     <h3 class="text-2xl md:text-3xl font-bold mb-4">Why my course works</h3>
